@@ -18,22 +18,22 @@
 - *Data Science, Machine Learning*
 
 ## 📫 How to reach me 
-- *vitianpradeep@gmail.com*
+- *sweekar.786b@gmail.com*
 <img align="right" alt="Coding" width="400" src="https://ucarecdn.com/687262eb-1a0c-4a53-8de8-317b1eff509a/"> </p>
 ## 📄 Know about my experiences 
 -*Resume* - [shorturl.at/iHOVZ](shorturl.at/iHOVZ) <br/>
--*Portfolio Link* - https://sites.google.com/view/pradeepkumarsahu/home
+-*Portfolio Link* - https://sites.google.com/sweekar/home
 
 ## ⚡ Fun fact 
 - *We need to be real not perfect*
 
 <h3 align="left">Connect with me:</h3>
 <p align="centre">
-  <a href="https://www.linkedin.com/in/pradeep-kumar-ram-ram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep" height="30" width="40" /></a>
-<a href="https://kaggle.com/pradeepdatascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pradeepdatascientist" height="30" width="40" /></a>
-<a href="https://instagram.com/pradeep_the_celibate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradeep_the_celibate" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vitianpradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vitianpradeep" height="30" width="40" /></a>
-<a href="https://leetcode.com/22MCA1049/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vitianpradeep" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sweekar-bangera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sweekar" height="30" width="40" /></a>
+<a href="https://kaggle.com/sweekardatascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sweekardatascientist" height="30" width="40" /></a>
+<a href="https://instagram.com/sweekar_the_celibate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sweekar_the_celibate" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vitiansweekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vitiansweekar" height="30" width="40" /></a>
+<a href="https://leetcode.com/22MCA1049/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vitiansweekar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,10 +43,10 @@
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sweekar07&show_icons=true&locale=en&layout=compact" alt="Sweekar07" /> </a>
   
 ## 📈 GitHub Streak:
-<a><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sweekar07&" alt="vitianpradeep" /></a>
+<a><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sweekar07&" alt="vitiansweekar" /></a>
 
-## 📈 Pradeep kumar's GitHub Stats:
-<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitianpradeep&show_icons=true&locale=en" alt="vitianpradeep" /></a>
+## 📈 sweekar kumar's GitHub Stats:
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitiansweekar&show_icons=true&locale=en" alt="vitiansweekar" /></a>
 
 ## 🚀 Visitors Count:
 ![Visitor Count](https://profile-counter.glitch.me/Sweekar07/count.svg) -->
@@ -59,7 +59,7 @@
   <h2 style="color:#FFFFFF; background-color:#000000; padding: 10px;">📈GitHub Streak</h2>
   <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sweekar07&background=FFFFFF&ring=000000&fire=DD2727&currStreakNum=000000&sideLabels=000000&currStreakLabel=000000&dates=000000&stroke=000000&hide_border=true" alt="Sweekar07" /></a>
   <br/>
-  <h2 style="color:#FFFFFF; background-color:#000000; padding: 10px;">📈Pradeep Kumar's GitHub Stats</h2>
+  <h2 style="color:#FFFFFF; background-color:#000000; padding: 10px;">📈sweekar Kumar's GitHub Stats</h2>
   <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sweekar07&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF&hide_border=true" alt="Sweekar07" /></a>
   <br/>
   <h2 style="color:#FFFFFF; background-color:#000000; padding: 10px;">🚀 Visitors Count</h2>
