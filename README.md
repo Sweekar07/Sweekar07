@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with experience in backend development, and AI. I enjoy building scalable applications, working with databases, and exploring new technologies. Additionally, I am currently learning and excited about **data engineering** and **big data**, and I look forward to working in these fields as well.
+Welcome to my GitHub profile! I'm a passionate software developer with experience in backend development and AI. I enjoy building scalable applications, working with databases, and exploring new technologies. Additionally, I am currently learning and excited about **data engineering** and **big data**, and I look forward to working in these fields as well.
 
 
 ## 🚀 About Me
 - 🔹 Experienced in **Python, and JavaScript**
-- 🔹 Backend development with **Flask, Node.js, and Express.js**
+- 🔹 Backend development with **Flask, Django, FAST API, Node.js, and Express.js**
 - 🔹 Web development using **HTML, CSS, and Streamlit**
 - 🔹 Strong database knowledge: **Elasticsearch, MongoDB, and PostgreSQL**
 - 🔹 AI/ML with **Pandas, NumPy, Scikit-learn, and Hugging Face**
