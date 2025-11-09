@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with experience in backend development and AI. I enjoy building scalable applications, working with databases, and exploring new technologies. Additionally, I am currently learning and excited about **data engineering** and **big data**, and I look forward to working in these fields as well.
+Welcome to my GitHub profile! I'm a passionate software developer with experience in backend development and AI. I enjoy building scalable applications, working with databases, and exploring new technologies. Additionally, I am currently learning and excited about **Full Stack** and **Dev Ops**, and I look forward to working in these fields as well.
 
 
 ## 🚀 About Me
