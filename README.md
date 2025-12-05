@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with experience in backend development and AI. I enjoy building scalable applications, working with databases, and exploring new technologies. Additionally, I am currently learning and excited about **Full Stack** and **Dev Ops**, and I look forward to working in these fields as well.
+Welcome to my GitHub profile! I'm a passionate software developer with experience in backend development. I enjoy building scalable applications, working with databases, and exploring new technologies. Additionally, I am currently learning and excited about **Full Stack** and **Dev Ops**, and I look forward to working in these fields as well.
 
 
 ## 🚀 About Me
 - 🔹 Experienced in **Python, and JavaScript**
-- 🔹 Backend development with **Flask, Django, FAST API, Node.js, and Express.js**
+- 🔹 Backend development with **Flask, Django, FAST API, Node.js**
 - 🔹 Web development using **HTML, CSS, and Streamlit**
 - 🔹 Strong database knowledge: **Elasticsearch, MongoDB, and PostgreSQL**
 - 🔹 AI/ML with **Pandas, NumPy, Scikit-learn, and Hugging Face**
@@ -26,31 +26,40 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 **Programming Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Frameworks & Libraries:**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-**Databases:**  
+**Databases & Backend Platforms:**  
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![OpenFGA](https://img.shields.io/badge/OpenFGA-000000?style=for-the-badge&logo=openfga&logoColor=white)
+
+**Cloud & Serverless:**  
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EventBridge](https://img.shields.io/badge/Amazon_EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon CloudFront](https://img.shields.io/badge/Amazon_CloudFront-FF4F8B?style=for-the-badge&logo=amazon-cloudfront&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+
+**Hosting & Platforms:**  
+![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools & DevOps:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Argo](https://img.shields.io/badge/Argo-CD-FF5733?style=for-the-badge&logo=argo&logoColor=white)
 
 
 ## 🏆 GitHub Trophies
