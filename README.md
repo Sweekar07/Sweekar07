@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 - 🔹 Experienced in **Python, and JavaScript**
 - 🔹 Backend development with **Flask, Django, FAST API, Node.js**
 - 🔹 Web development using **HTML, CSS, and Streamlit**
-- 🔹 Strong database knowledge: **Elasticsearch, MongoDB, and PostgreSQL**
+- 🔹 Strong database knowledge: **Elasticsearch, MongoDB, Pinecone and PostgreSQL**
 - 🔹 AI/ML with **Pandas, NumPy, Scikit-learn, and Hugging Face**
 - 🔹 Proficient in working with **Docker, GitHub, and Postman**
 
