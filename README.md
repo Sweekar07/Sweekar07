@@ -66,6 +66,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sweekar07&theme=nord&column=7)](https://github.com/Sweekar07/github-profile-trophy)
 
+## 🤝 I’m Looking To Collaborate On
+- **AI/ML projects** using Hugging Face, Crew AI.
+- **Full-stack applications** with Supabase and React.
+- **Startups** building scalable backend systems.
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sweekar-bangera/)  
